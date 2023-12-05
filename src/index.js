@@ -104,7 +104,7 @@ app.use((req,res,next)=>{
 
 
 
-app.get('/dashboard',(req,res)=>{
+app.get('/dashboad',(req,res)=>{
     res.send("landig")
 })
 
